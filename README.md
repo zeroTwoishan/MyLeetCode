@@ -65,6 +65,7 @@ Contains topicwise list of solved problems.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +165,7 @@ Contains topicwise list of solved problems.
 | [0062-unique-paths](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
