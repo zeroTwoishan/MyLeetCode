@@ -142,6 +142,7 @@ Contains topicwise list of solved problems.
 | [1539-kth-missing-positive-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
