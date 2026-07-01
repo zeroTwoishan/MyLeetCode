@@ -230,6 +230,7 @@ Contains topicwise list of solved problems.
 | [0443-string-compression](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0771-jewels-and-stones](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0796-rotate-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0796-rotate-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +263,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0796-rotate-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
