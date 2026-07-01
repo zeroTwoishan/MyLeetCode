@@ -67,6 +67,7 @@ Contains topicwise list of solved problems.
 | [0118-pascals-triangle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0136-single-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@ Contains topicwise list of solved problems.
 | [0067-add-binary](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0089-gray-code/) | Medium |
+| [0136-single-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0136-single-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
