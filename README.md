@@ -285,6 +285,7 @@ Contains topicwise list of solved problems.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [2129-capitalize-the-title](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2129-capitalize-the-title/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
