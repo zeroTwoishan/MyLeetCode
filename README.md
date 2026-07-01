@@ -324,6 +324,7 @@ Contains topicwise list of solved problems.
 | [2390-removing-stars-from-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -394,6 +395,7 @@ Contains topicwise list of solved problems.
 | [2161-partition-array-according-to-given-pivot](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
