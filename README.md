@@ -77,6 +77,7 @@ Contains topicwise list of solved problems.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0169-majority-element/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ Contains topicwise list of solved problems.
 | [0004-median-of-two-sorted-arrays](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0169-majority-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +133,7 @@ Contains topicwise list of solved problems.
 | [0141-linked-list-cycle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0169-majority-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +162,7 @@ Contains topicwise list of solved problems.
 | [0075-sort-colors](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0169-majority-element/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,4 +221,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0148-sort-list/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
