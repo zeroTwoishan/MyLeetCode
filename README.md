@@ -59,6 +59,7 @@ Contains topicwise list of solved problems.
 | [0509-fibonacci-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
