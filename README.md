@@ -46,6 +46,7 @@ Contains topicwise list of solved problems.
 | [0202-happy-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0202-happy-number/) | Easy |
 | [0223-rectangle-area](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0263-ugly-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0263-ugly-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
