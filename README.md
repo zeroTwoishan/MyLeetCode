@@ -60,6 +60,7 @@ Contains topicwise list of solved problems.
 | [0989-add-to-array-form-of-integer](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +134,7 @@ Contains topicwise list of solved problems.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
