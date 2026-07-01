@@ -169,6 +169,7 @@ Contains topicwise list of solved problems.
 | [2951-find-the-peaks](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2951-find-the-peaks/) | Easy |
 | [3046-split-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +203,7 @@ Contains topicwise list of solved problems.
 | [0053-maximum-subarray](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0169-majority-element/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,6 +285,7 @@ Contains topicwise list of solved problems.
 | [3046-split-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -439,6 +442,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0148-sort-list/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,6 +455,7 @@ Contains topicwise list of solved problems.
 | [2287-rearrange-characters-to-make-target-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [3046-split-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -471,6 +476,7 @@ Contains topicwise list of solved problems.
 | [1480-running-sum-of-1d-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -484,4 +490,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2951-find-the-peaks](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2951-find-the-peaks/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
