@@ -23,6 +23,7 @@ Contains topicwise list of solved problems.
 | [0043-multiply-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0062-unique-paths/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,4 +132,9 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0062-unique-paths/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
