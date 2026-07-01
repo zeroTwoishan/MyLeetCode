@@ -20,6 +20,7 @@ Contains topicwise list of solved problems.
 | [0013-roman-to-integer](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0048-rotate-image/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Contains topicwise list of solved problems.
 | [0033-search-in-rotated-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0048-rotate-image/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +107,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0043-multiply-strings/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
