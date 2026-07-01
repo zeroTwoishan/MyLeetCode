@@ -56,6 +56,7 @@ Contains topicwise list of solved problems.
 | [0056-merge-intervals](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0075-sort-colors/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ Contains topicwise list of solved problems.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0075-sort-colors/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@ Contains topicwise list of solved problems.
 | [0018-4sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0075-sort-colors/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
