@@ -55,6 +55,7 @@ Contains topicwise list of solved problems.
 | [0054-spiral-matrix](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@ Contains topicwise list of solved problems.
 | [0012-integer-to-roman](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
