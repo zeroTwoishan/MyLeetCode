@@ -168,6 +168,7 @@ Contains topicwise list of solved problems.
 | [2784-check-if-array-is-good](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2951-find-the-peaks](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2951-find-the-peaks/) | Easy |
 | [3046-split-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3046-split-the-array/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -351,6 +352,7 @@ Contains topicwise list of solved problems.
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -444,6 +446,7 @@ Contains topicwise list of solved problems.
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [3046-split-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3046-split-the-array/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
