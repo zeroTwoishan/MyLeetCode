@@ -132,6 +132,7 @@ Contains topicwise list of solved problems.
 | [1004-max-consecutive-ones-iii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
