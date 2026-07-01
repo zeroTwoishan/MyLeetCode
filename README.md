@@ -38,6 +38,7 @@ Contains topicwise list of solved problems.
 | [0089-gray-code](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0089-gray-code/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0189-rotate-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0189-rotate-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ Contains topicwise list of solved problems.
 | [0162-find-peak-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0189-rotate-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +121,7 @@ Contains topicwise list of solved problems.
 | [0151-reverse-words-in-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0189-rotate-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
