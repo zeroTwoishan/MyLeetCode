@@ -112,6 +112,7 @@ Contains topicwise list of solved problems.
 | [0396-rotate-function](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0414-third-maximum-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
