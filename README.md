@@ -131,6 +131,7 @@ Contains topicwise list of solved problems.
 | [0989-add-to-array-form-of-integer](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@ Contains topicwise list of solved problems.
 | [0875-koko-eating-bananas](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
