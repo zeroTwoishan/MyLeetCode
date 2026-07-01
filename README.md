@@ -18,6 +18,7 @@ Contains topicwise list of solved problems.
 | [0142-linked-list-cycle-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@ Contains topicwise list of solved problems.
 | [0021-merge-two-sorted-lists](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0050-powx-n/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
