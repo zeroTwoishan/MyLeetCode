@@ -116,6 +116,7 @@ Contains topicwise list of solved problems.
 | [0414-third-maximum-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@ Contains topicwise list of solved problems.
 | [0299-bulls-and-cows](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0389-find-the-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,6 +328,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0560-subarray-sum-equals-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
