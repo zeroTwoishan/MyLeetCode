@@ -42,6 +42,7 @@ Contains topicwise list of solved problems.
 | [0171-excel-sheet-column-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0202-happy-number/) | Easy |
+| [0223-rectangle-area](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0223-rectangle-area/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,4 +256,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0223-rectangle-area](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0223-rectangle-area/) | Medium |
 <!---LeetCode Topics End-->
