@@ -226,6 +226,7 @@ Contains topicwise list of solved problems.
 | [0560-subarray-sum-equals-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0771-jewels-and-stones](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +256,7 @@ Contains topicwise list of solved problems.
 | [0796-rotate-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -357,6 +359,7 @@ Contains topicwise list of solved problems.
 | [0229-majority-element-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0299-bulls-and-cows](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0299-bulls-and-cows/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
