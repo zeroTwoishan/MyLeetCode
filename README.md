@@ -124,6 +124,7 @@ Contains topicwise list of solved problems.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0941-valid-mountain-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0941-valid-mountain-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +180,7 @@ Contains topicwise list of solved problems.
 | [0345-reverse-vowels-of-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0443-string-compression/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +260,7 @@ Contains topicwise list of solved problems.
 | [0389-find-the-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0561-array-partition/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
