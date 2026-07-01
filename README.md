@@ -25,6 +25,7 @@ Contains topicwise list of solved problems.
 | [0050-powx-n](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0067-add-binary/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ Contains topicwise list of solved problems.
 | [0043-multiply-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0067-add-binary/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,11 +122,13 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0067-add-binary/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0067-add-binary/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
