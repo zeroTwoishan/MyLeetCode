@@ -32,6 +32,7 @@ Contains topicwise list of solved problems.
 | [0014-longest-common-prefix](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@ Contains topicwise list of solved problems.
 | [0015-3sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
