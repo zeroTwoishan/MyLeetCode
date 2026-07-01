@@ -58,6 +58,7 @@ Contains topicwise list of solved problems.
 | [0445-add-two-numbers-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1041-robot-bounded-in-circle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,6 +245,7 @@ Contains topicwise list of solved problems.
 | [0520-detect-capital](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0771-jewels-and-stones](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0796-rotate-string/) | Easy |
+| [1041-robot-bounded-in-circle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +300,7 @@ Contains topicwise list of solved problems.
 | [0054-spiral-matrix](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0067-add-binary/) | Easy |
 | [0415-add-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0415-add-strings/) | Easy |
+| [1041-robot-bounded-in-circle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
