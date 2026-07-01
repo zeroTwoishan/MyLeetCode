@@ -58,6 +58,7 @@ Contains topicwise list of solved problems.
 | [0073-set-matrix-zeroes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0078-subsets/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@ Contains topicwise list of solved problems.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
