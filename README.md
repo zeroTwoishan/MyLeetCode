@@ -11,6 +11,7 @@ Contains topicwise list of solved problems.
 | [0021-merge-two-sorted-lists](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ Contains topicwise list of solved problems.
 | [0031-next-permutation](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
