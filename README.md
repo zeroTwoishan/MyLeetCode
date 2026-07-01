@@ -36,6 +36,7 @@ Contains topicwise list of solved problems.
 | [0069-sqrtx](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0089-gray-code/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +144,7 @@ Contains topicwise list of solved problems.
 | [0058-length-of-last-word](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0067-add-binary/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
