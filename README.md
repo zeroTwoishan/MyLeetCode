@@ -67,6 +67,7 @@ Contains topicwise list of solved problems.
 | [1344-angle-between-hands-of-a-clock](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [1922-count-good-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1922-count-good-numbers/) | Medium |
+| [2769-find-the-maximum-achievable-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
