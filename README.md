@@ -177,6 +177,7 @@ Contains topicwise list of solved problems.
 | [0242-valid-anagram](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0268-missing-number/) | Easy |
 | [0299-bulls-and-cows](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0299-bulls-and-cows/) | Medium |
+| [0389-find-the-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0389-find-the-difference/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +198,7 @@ Contains topicwise list of solved problems.
 | [0299-bulls-and-cows](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0344-reverse-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0389-find-the-difference/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +218,7 @@ Contains topicwise list of solved problems.
 | [0229-majority-element-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0389-find-the-difference/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +239,7 @@ Contains topicwise list of solved problems.
 | [0231-power-of-two](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0342-power-of-four/) | Easy |
+| [0389-find-the-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0389-find-the-difference/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
