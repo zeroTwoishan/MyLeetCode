@@ -51,6 +51,7 @@ Contains topicwise list of solved problems.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@ Contains topicwise list of solved problems.
 | [0013-roman-to-integer](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +82,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0020-valid-parentheses/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
