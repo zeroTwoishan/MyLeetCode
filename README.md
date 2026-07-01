@@ -75,6 +75,7 @@ Contains topicwise list of solved problems.
 | [0152-maximum-product-subarray](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ Contains topicwise list of solved problems.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@ Contains topicwise list of solved problems.
 | [0148-sort-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
