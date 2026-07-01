@@ -58,6 +58,7 @@ Contains topicwise list of solved problems.
 | [0012-integer-to-roman](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0020-valid-parentheses/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +68,8 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0015-3sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0018-4sum/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
