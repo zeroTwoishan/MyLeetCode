@@ -163,6 +163,7 @@ Contains topicwise list of solved problems.
 | [2540-minimum-common-value](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +274,7 @@ Contains topicwise list of solved problems.
 | [2287-rearrange-characters-to-make-target-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -339,6 +341,7 @@ Contains topicwise list of solved problems.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
