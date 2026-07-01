@@ -90,6 +90,7 @@ Contains topicwise list of solved problems.
 | [0209-minimum-size-subarray-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0229-majority-element-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@ Contains topicwise list of solved problems.
 | [0205-isomorphic-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0229-majority-element-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +187,7 @@ Contains topicwise list of solved problems.
 | [0148-sort-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0229-majority-element-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +250,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0229-majority-element-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
