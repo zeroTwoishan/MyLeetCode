@@ -66,6 +66,7 @@ Contains topicwise list of solved problems.
 | [0088-merge-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@ Contains topicwise list of solved problems.
 | [0013-roman-to-integer](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,4 +181,8 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0078-subsets](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0089-gray-code/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
