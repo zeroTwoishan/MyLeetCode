@@ -64,6 +64,7 @@ Contains topicwise list of solved problems.
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
+| [1922-count-good-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1922-count-good-numbers/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ Contains topicwise list of solved problems.
 | [0326-power-of-three](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1922-count-good-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1922-count-good-numbers/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
