@@ -141,6 +141,7 @@ Contains topicwise list of solved problems.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -388,6 +389,7 @@ Contains topicwise list of solved problems.
 | [0560-subarray-sum-equals-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
