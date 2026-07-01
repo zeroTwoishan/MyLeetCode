@@ -155,6 +155,7 @@ Contains topicwise list of solved problems.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +221,7 @@ Contains topicwise list of solved problems.
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -352,6 +354,7 @@ Contains topicwise list of solved problems.
 | [1041-robot-bounded-in-circle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
