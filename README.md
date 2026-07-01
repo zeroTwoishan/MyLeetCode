@@ -24,6 +24,7 @@ Contains topicwise list of solved problems.
 | [0048-rotate-image](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0066-plus-one/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Contains topicwise list of solved problems.
 | [0053-maximum-subarray](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0066-plus-one/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
