@@ -25,6 +25,7 @@ Contains topicwise list of solved problems.
 | [0004-median-of-two-sorted-arrays](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0015-3sum/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0015-3sum/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,4 +58,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
