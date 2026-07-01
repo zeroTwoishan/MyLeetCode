@@ -108,6 +108,7 @@ Contains topicwise list of solved problems.
 | [0283-move-zeroes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0396-rotate-function](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0414-third-maximum-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0414-third-maximum-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +225,7 @@ Contains topicwise list of solved problems.
 | [0242-valid-anagram](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0414-third-maximum-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
