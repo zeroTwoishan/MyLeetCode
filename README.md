@@ -16,6 +16,7 @@ Contains topicwise list of solved problems.
 | [0092-reverse-linked-list-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0148-sort-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0148-sort-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ Contains topicwise list of solved problems.
 | [0088-merge-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0148-sort-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +143,7 @@ Contains topicwise list of solved problems.
 | [0056-merge-intervals](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0148-sort-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,4 +197,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
