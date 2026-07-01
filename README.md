@@ -99,6 +99,7 @@ Contains topicwise list of solved problems.
 | [0219-contains-duplicate-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +145,7 @@ Contains topicwise list of solved problems.
 | [0189-rotate-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
