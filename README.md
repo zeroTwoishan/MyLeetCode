@@ -216,6 +216,7 @@ Contains topicwise list of solved problems.
 | [0415-add-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0415-add-strings/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0443-string-compression/) | Medium |
+| [0520-detect-capital](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0520-detect-capital/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
