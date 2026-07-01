@@ -42,6 +42,7 @@ Contains topicwise list of solved problems.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0049-group-anagrams/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0049-group-anagrams/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +84,7 @@ Contains topicwise list of solved problems.
 | [0020-valid-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0043-multiply-strings/) | Medium |
+| [0049-group-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0049-group-anagrams/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +94,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0015-3sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0049-group-anagrams/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
