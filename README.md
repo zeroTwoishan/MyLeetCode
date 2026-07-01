@@ -203,6 +203,7 @@ Contains topicwise list of solved problems.
 | [0389-find-the-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0771-jewels-and-stones](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +229,7 @@ Contains topicwise list of solved problems.
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0520-detect-capital/) | Easy |
+| [0771-jewels-and-stones](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
