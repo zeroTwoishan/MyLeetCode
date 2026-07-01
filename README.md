@@ -17,6 +17,7 @@ Contains topicwise list of solved problems.
 | [0141-linked-list-cycle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ Contains topicwise list of solved problems.
 | [0142-linked-list-cycle-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +124,7 @@ Contains topicwise list of solved problems.
 | [0128-longest-consecutive-sequence](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
