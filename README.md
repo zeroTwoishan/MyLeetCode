@@ -149,6 +149,7 @@ Contains topicwise list of solved problems.
 | [1833-maximum-ice-cream-bars](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +279,7 @@ Contains topicwise list of solved problems.
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
