@@ -280,6 +280,7 @@ Contains topicwise list of solved problems.
 | [2540-minimum-common-value](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3046-split-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3046-split-the-array/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +320,7 @@ Contains topicwise list of solved problems.
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
