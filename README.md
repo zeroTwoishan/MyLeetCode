@@ -107,6 +107,7 @@ Contains topicwise list of solved problems.
 | [0268-missing-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0396-rotate-function](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ Contains topicwise list of solved problems.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0268-missing-number/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +267,7 @@ Contains topicwise list of solved problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0396-rotate-function](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +304,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
