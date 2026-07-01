@@ -123,6 +123,7 @@ Contains topicwise list of solved problems.
 | [0704-binary-search](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0941-valid-mountain-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0941-valid-mountain-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
