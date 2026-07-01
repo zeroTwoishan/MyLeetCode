@@ -52,6 +52,7 @@ Contains topicwise list of solved problems.
 | [0326-power-of-three](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0396-rotate-function](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0415-add-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0415-add-strings/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +206,7 @@ Contains topicwise list of solved problems.
 | [0344-reverse-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0415-add-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0415-add-strings/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +255,7 @@ Contains topicwise list of solved problems.
 | [0043-multiply-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0067-add-binary/) | Easy |
+| [0415-add-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0415-add-strings/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
