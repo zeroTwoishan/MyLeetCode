@@ -51,6 +51,7 @@ Contains topicwise list of solved problems.
 | [0268-missing-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0342-power-of-four/) | Easy |
+| [0396-rotate-function](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0396-rotate-function/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@ Contains topicwise list of solved problems.
 | [0229-majority-element-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0396-rotate-function](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0396-rotate-function/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,6 +263,7 @@ Contains topicwise list of solved problems.
 | [0118-pascals-triangle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0396-rotate-function](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0396-rotate-function/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
