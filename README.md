@@ -161,6 +161,7 @@ Contains topicwise list of solved problems.
 | [0217-contains-duplicate](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +178,7 @@ Contains topicwise list of solved problems.
 | [0168-excel-sheet-column-title](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0242-valid-anagram/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +196,7 @@ Contains topicwise list of solved problems.
 | [0169-majority-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0242-valid-anagram/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
