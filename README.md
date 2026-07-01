@@ -156,6 +156,7 @@ Contains topicwise list of solved problems.
 | [2149-rearrange-array-elements-by-sign](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +259,7 @@ Contains topicwise list of solved problems.
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,6 +296,7 @@ Contains topicwise list of solved problems.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2129-capitalize-the-title](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2129-capitalize-the-title/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +322,7 @@ Contains topicwise list of solved problems.
 | [0977-squares-of-a-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
