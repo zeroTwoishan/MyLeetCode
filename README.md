@@ -143,6 +143,7 @@ Contains topicwise list of solved problems.
 | [0160-intersection-of-two-linked-lists](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +159,7 @@ Contains topicwise list of solved problems.
 | [0151-reverse-words-in-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
