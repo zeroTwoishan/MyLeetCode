@@ -160,6 +160,7 @@ Contains topicwise list of solved problems.
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2540-minimum-common-value](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -375,6 +376,7 @@ Contains topicwise list of solved problems.
 | [2149-rearrange-array-elements-by-sign](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
