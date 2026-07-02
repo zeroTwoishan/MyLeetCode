@@ -248,6 +248,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0561-array-partition](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0561-array-partition/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -308,6 +309,7 @@ Contains topicwise list of solved problems.
 | [0205-isomorphic-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0299-bulls-and-cows/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0389-find-the-difference/) | Easy |
@@ -368,6 +370,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -511,4 +514,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 <!---LeetCode Topics End-->
