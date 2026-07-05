@@ -99,6 +99,7 @@ Contains topicwise list of solved problems.
 | [0033-search-in-rotated-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0046-permutations](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0053-maximum-subarray/) | Medium |
@@ -453,6 +454,7 @@ Contains topicwise list of solved problems.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0090-subsets-ii/) | Medium |
