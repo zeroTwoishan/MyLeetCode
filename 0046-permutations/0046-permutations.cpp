@@ -1,30 +1,21 @@
 class Solution {
 public:
-    vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>> res;
-        if (nums.size() == 1) {
-            vector<int> singleList;
-            singleList.push_back(nums[0]);
-            res.push_back(singleList);
-            return res;
+    void solve(int idx, vector<int>& nums, vector<vector<int>>& ans) {
+        if (idx >= nums.size()) {
+            ans.push_back(nums);
+            return;
         }
 
-        for (int i = 0; i < nums.size(); i++) {
-            int n = nums[i];
-            vector<int> remainingNums;
-            for (int j = 0; j < nums.size(); j++) {
-                if (j != i) {
-                    remainingNums.push_back(nums[j]);
-                }
-            }
-            
-            vector<vector<int>> perms = permute(remainingNums);
-            for (vector<int> p : perms) {
-                p.insert(p.begin(), n);  
-                res.push_back(p);  
-            }
+        for (int i = idx; i < nums.size(); i++) {
+            swap(nums[i], nums[idx]);
+            solve(idx + 1, nums, ans);
+            swap(nums[i], nums[idx]);
         }
-        
-        return res;    
+    }
+
+    vector<vector<int>> permute(vector<int>& nums) {
+        vector<vector<int>> ans;
+        solve(0, nums, ans);
+        return ans;
     }
 };
