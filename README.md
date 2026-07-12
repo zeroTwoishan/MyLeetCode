@@ -224,6 +224,7 @@ Contains topicwise list of solved problems.
 | [0053-maximum-subarray](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -428,6 +429,7 @@ Contains topicwise list of solved problems.
 | [0090-subsets-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0137-single-number-ii/) | Medium |
+| [0190-reverse-bits](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0342-power-of-four/) | Easy |
