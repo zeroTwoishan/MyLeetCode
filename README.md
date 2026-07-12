@@ -184,6 +184,7 @@ Contains topicwise list of solved problems.
 | [2942-find-words-containing-character](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2951-find-the-peaks](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2951-find-the-peaks/) | Easy |
 | [3046-split-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3046-split-the-array/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -314,6 +315,7 @@ Contains topicwise list of solved problems.
 | [3046-split-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
@@ -437,6 +439,7 @@ Contains topicwise list of solved problems.
 | [0389-find-the-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
