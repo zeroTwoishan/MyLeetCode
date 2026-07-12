@@ -170,6 +170,7 @@ Contains topicwise list of solved problems.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -416,6 +417,7 @@ Contains topicwise list of solved problems.
 | [0739-daily-temperatures](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
@@ -580,6 +582,7 @@ Contains topicwise list of solved problems.
 | [0739-daily-temperatures](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
