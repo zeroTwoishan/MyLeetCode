@@ -563,6 +563,7 @@ Contains topicwise list of solved problems.
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [2951-find-the-peaks](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2951-find-the-peaks/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
