@@ -28,6 +28,7 @@ Contains topicwise list of solved problems.
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -87,6 +88,7 @@ Contains topicwise list of solved problems.
 | [0342-power-of-four](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1922-count-good-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1922-count-good-numbers/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -420,6 +422,7 @@ Contains topicwise list of solved problems.
 | [2104-sum-of-subarray-ranges](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -583,6 +586,7 @@ Contains topicwise list of solved problems.
 | [0907-sum-of-subarray-minimums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
