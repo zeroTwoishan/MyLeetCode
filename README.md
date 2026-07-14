@@ -73,6 +73,7 @@ Contains topicwise list of solved problems.
 | [1922-count-good-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1922-count-good-numbers/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Recursion
@@ -599,4 +600,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
