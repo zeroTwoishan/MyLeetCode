@@ -58,6 +58,7 @@ Contains topicwise list of solved problems.
 | [0268-missing-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0396-rotate-function](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0415-add-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0415-add-strings/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -208,6 +209,7 @@ Contains topicwise list of solved problems.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
