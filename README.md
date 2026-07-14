@@ -184,6 +184,7 @@ Contains topicwise list of solved problems.
 | [2540-minimum-common-value](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -569,6 +570,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2951-find-the-peaks/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
