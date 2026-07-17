@@ -151,6 +151,7 @@ Contains topicwise list of solved problems.
 | [0540-single-element-in-a-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0561-array-partition/) | Easy |
+| [0605-can-place-flowers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -291,6 +292,7 @@ Contains topicwise list of solved problems.
 | [0316-remove-duplicate-letters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0561-array-partition](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0561-array-partition/) | Easy |
+| [0605-can-place-flowers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
