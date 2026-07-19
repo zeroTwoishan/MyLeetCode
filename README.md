@@ -74,6 +74,7 @@ Contains topicwise list of solved problems.
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [1922-count-good-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1922-count-good-numbers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2469-convert-the-temperature](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
@@ -190,6 +191,7 @@ Contains topicwise list of solved problems.
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2540-minimum-common-value](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -627,6 +629,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
