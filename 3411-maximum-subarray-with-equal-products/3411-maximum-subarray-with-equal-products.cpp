@@ -8,6 +8,7 @@ public:
             int gcdd = 0;
             unsigned long long lcmm = 1;
             for (int j = i; j < n; j++) {
+                if(prod > 2520) break;
                 prod *= nums[j];
                 gcdd = gcd(gcdd, nums[j]);
                 lcmm = lcm(lcmm, (unsigned long long)nums[j]);
