@@ -79,6 +79,7 @@ Contains topicwise list of solved problems.
 | [2769-find-the-maximum-achievable-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -206,6 +207,7 @@ Contains topicwise list of solved problems.
 | [2951-find-the-peaks](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2951-find-the-peaks/) | Easy |
 | [3046-split-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -570,6 +572,7 @@ Contains topicwise list of solved problems.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -600,6 +603,7 @@ Contains topicwise list of solved problems.
 | [1291-sequential-digits](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2951-find-the-peaks/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -632,6 +636,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
