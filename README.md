@@ -97,6 +97,7 @@ Contains topicwise list of solved problems.
 | [0234-palindrome-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0342-power-of-four/) | Easy |
+| [0394-decode-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1922-count-good-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1922-count-good-numbers/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -374,6 +375,7 @@ Contains topicwise list of solved problems.
 | [0344-reverse-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0394-decode-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0394-decode-string/) | Medium |
 | [0415-add-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0415-add-strings/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0443-string-compression/) | Medium |
@@ -448,6 +450,7 @@ Contains topicwise list of solved problems.
 | [0155-min-stack](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0394-decode-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0394-decode-string/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
