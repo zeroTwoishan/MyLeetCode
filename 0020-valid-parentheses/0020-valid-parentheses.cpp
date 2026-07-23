@@ -1,6 +1,26 @@
 class Solution {
 public:
     bool isValid(string s) {
+        vector<char> st;
+        int n = s.size();
+        st.reserve(n); 
+        for(auto& c : s){
+            if((c == '(') ||
+              (c == '{') || 
+              (c == '[')) st.push_back(c);
+            else if(!st.empty() &&
+                    ((st.back() == '[' && c == ']') ||
+                    (st.back() == '{' && c == '}') ||
+                    (st.back() == '(' && c == ')')) ) st.pop_back();
+            else return false;
+        }
+        return st.empty();
+    }
+};
+/*
+class Solution {
+public:
+    bool isValid(string s) {
         int lenght = s.size();
         if(lenght % 2 != 0) return false;
         else{
@@ -23,3 +43,4 @@ public:
         }
     }
 };
+*/
