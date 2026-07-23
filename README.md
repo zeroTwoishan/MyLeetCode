@@ -445,6 +445,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0071-simplify-path/) | Medium |
+| [0155-min-stack](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -643,4 +644,8 @@ Contains topicwise list of solved problems.
 | [3411-maximum-subarray-with-equal-products](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
