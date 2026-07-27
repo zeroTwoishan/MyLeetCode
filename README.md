@@ -82,6 +82,7 @@ Contains topicwise list of solved problems.
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -446,6 +447,7 @@ Contains topicwise list of solved problems.
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
