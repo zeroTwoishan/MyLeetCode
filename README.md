@@ -65,6 +65,7 @@ Contains topicwise list of solved problems.
 | [0415-add-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0415-add-strings/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1017-convert-to-base-2](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1017-convert-to-base-2/) | Medium |
@@ -162,6 +163,7 @@ Contains topicwise list of solved problems.
 | [0560-subarray-sum-equals-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0605-can-place-flowers/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -436,6 +438,7 @@ Contains topicwise list of solved problems.
 | [0389-find-the-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0561-array-partition/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
