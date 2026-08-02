@@ -1,14 +1,17 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        int freq[26] = {0};
-        for (char c : word) freq[c - 'a']++;
-        sort(freq, freq + 26, greater<int>());
-        
+        int keyNo = 2;
+        int freq[10] = {0};
+        int i = 0;
+        int n = word.size();
         int ans = 0;
-        for (int i = 0; i < 26 && freq[i] > 0; i++) {
-            int multiplier = i / 8 + 1;
-            ans += freq[i] * multiplier;
+        while(i < n){
+            freq[keyNo]++;
+            i++;
+            ans += freq[keyNo];
+            if(keyNo > 8) keyNo = 2;
+            else keyNo++;
         }
         return ans;
     }
