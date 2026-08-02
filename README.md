@@ -318,6 +318,7 @@ Contains topicwise list of solved problems.
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2645-minimum-additions-to-make-valid-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,6 +356,7 @@ Contains topicwise list of solved problems.
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3046-split-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -412,6 +414,7 @@ Contains topicwise list of solved problems.
 | [2645-minimum-additions-to-make-valid-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2645-minimum-additions-to-make-valid-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
@@ -455,6 +458,7 @@ Contains topicwise list of solved problems.
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -583,6 +587,7 @@ Contains topicwise list of solved problems.
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3046-split-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
