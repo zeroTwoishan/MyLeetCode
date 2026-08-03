@@ -75,6 +75,7 @@ Contains topicwise list of solved problems.
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1406-stone-game-iii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [1922-count-good-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1922-count-good-numbers/) | Medium |
@@ -187,6 +188,7 @@ Contains topicwise list of solved problems.
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1406-stone-game-iii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -559,6 +561,7 @@ Contains topicwise list of solved problems.
 | [0509-fibonacci-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1406-stone-game-iii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2645-minimum-additions-to-make-valid-string/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -695,8 +698,17 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1406-stone-game-iii/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
