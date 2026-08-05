@@ -56,6 +56,7 @@ Contains topicwise list of solved problems.
 | [0202-happy-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0202-happy-number/) | Easy |
 | [0223-rectangle-area](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0326-power-of-three/) | Easy |
@@ -529,6 +530,7 @@ Contains topicwise list of solved problems.
 | [0043-multiply-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0415-add-strings/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -686,6 +688,7 @@ Contains topicwise list of solved problems.
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [3411-maximum-subarray-with-equal-products](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
