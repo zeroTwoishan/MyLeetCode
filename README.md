@@ -87,6 +87,7 @@ Contains topicwise list of solved problems.
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -655,6 +656,7 @@ Contains topicwise list of solved problems.
 | [1291-sequential-digits](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2951-find-the-peaks/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Segment Tree
