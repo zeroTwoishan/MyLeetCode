@@ -485,6 +485,7 @@ Contains topicwise list of solved problems.
 | [0020-valid-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0143-reorder-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0143-reorder-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -721,4 +722,16 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1406-stone-game-iii/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
