@@ -333,6 +333,7 @@ Contains topicwise list of solved problems.
 | [2645-minimum-additions-to-make-valid-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2645-minimum-additions-to-make-valid-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +380,7 @@ Contains topicwise list of solved problems.
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
@@ -441,6 +443,7 @@ Contains topicwise list of solved problems.
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Trie
@@ -619,6 +622,7 @@ Contains topicwise list of solved problems.
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3046-split-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3046-split-the-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -670,6 +674,7 @@ Contains topicwise list of solved problems.
 | [3345-smallest-divisible-digit-product-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
