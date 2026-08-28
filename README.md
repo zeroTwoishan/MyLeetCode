@@ -129,6 +129,7 @@ Contains topicwise list of solved problems.
 | [0033-search-in-rotated-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0049-group-anagrams/) | Medium |
@@ -340,6 +341,7 @@ Contains topicwise list of solved problems.
 | [0001-two-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0041-first-missing-positive](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0076-minimum-window-substring/) | Hard |
