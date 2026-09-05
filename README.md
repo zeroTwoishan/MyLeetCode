@@ -246,6 +246,7 @@ Contains topicwise list of solved problems.
 | [3875-construct-uniform-parity-array-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -670,6 +671,7 @@ Contains topicwise list of solved problems.
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
