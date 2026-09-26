@@ -188,6 +188,7 @@ Contains topicwise list of solved problems.
 | [0704-binary-search](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0835-image-overlap](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -592,6 +593,7 @@ Contains topicwise list of solved problems.
 | [0048-rotate-image](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0835-image-overlap](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2906-construct-product-matrix/) | Medium |
