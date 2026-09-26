@@ -1,5 +1,6 @@
 class Solution {
 public:
+    /*
     int countOnes(vector<vector<int>>& img1, vector<vector<int>>& img2,int m, int n){
         int s = img1.size();
         int count = 0;
@@ -13,6 +14,15 @@ public:
                 }
             }
         }
+        return count;
+    }
+    */
+    int countOnes(vector<vector<int>>& img1, vector<vector<int>>& img2, int dx, int dy) {
+        int n = img1.size();
+        int count = 0;
+        for (int i = max(0, -dx); i < min(n, n - dx); i++)
+            for (int j = max(0, -dy); j < min(n, n - dy); j++)
+                if (img1[i][j] && img2[i + dx][j + dy]) count++;
         return count;
     }
     int largestOverlap(vector<vector<int>>& img1, vector<vector<int>>& img2) {
