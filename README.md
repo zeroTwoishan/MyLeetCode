@@ -390,6 +390,7 @@ Contains topicwise list of solved problems.
 | [0560-subarray-sum-equals-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0771-jewels-and-stones](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -502,6 +503,7 @@ Contains topicwise list of solved problems.
 | [0561-array-partition](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -734,6 +736,7 @@ Contains topicwise list of solved problems.
 | [0102-binary-tree-level-order-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -801,6 +804,7 @@ Contains topicwise list of solved problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -814,6 +818,7 @@ Contains topicwise list of solved problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -829,6 +834,7 @@ Contains topicwise list of solved problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
