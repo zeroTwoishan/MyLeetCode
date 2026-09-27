@@ -88,6 +88,7 @@ Contains topicwise list of solved problems.
 | [2769-find-the-maximum-achievable-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
@@ -585,6 +586,7 @@ Contains topicwise list of solved problems.
 | [2161-partition-array-according-to-given-pivot](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
