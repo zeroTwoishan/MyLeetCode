@@ -448,6 +448,7 @@ Contains topicwise list of solved problems.
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -540,6 +541,7 @@ Contains topicwise list of solved problems.
 | [0907-sum-of-subarray-minimums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -829,4 +831,8 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
