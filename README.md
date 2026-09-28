@@ -455,6 +455,7 @@ Contains topicwise list of solved problems.
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -546,6 +547,7 @@ Contains topicwise list of solved problems.
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -845,4 +847,5 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
