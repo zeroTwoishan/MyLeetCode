@@ -214,6 +214,7 @@ Contains topicwise list of solved problems.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1652-defuse-the-bomb](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -686,6 +687,7 @@ Contains topicwise list of solved problems.
 | [1004-max-consecutive-ones-iii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
