@@ -1,3 +1,4 @@
+/*
 class Solution {
 public:
     vector<string> getWords(string s) {
@@ -23,6 +24,21 @@ public:
             if(words[i][n - 1] != words[i + 1][0]) return false;
         }
 
+        return true;
+    }
+};
+*/
+
+class Solution {
+public:
+    bool isCircularSentence(string sentence) {
+        int n = sentence.size();
+        if (sentence[0] != sentence[n - 1]) return false;
+
+        for (int i = 0; i < n; i++) {
+            if (sentence[i] == ' ' && sentence[i - 1] != sentence[i + 1])
+                return false;
+        }
         return true;
     }
 };
