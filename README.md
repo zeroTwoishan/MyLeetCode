@@ -194,6 +194,7 @@ Contains topicwise list of solved problems.
 | [0875-koko-eating-bananas](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0941-valid-mountain-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -302,6 +303,7 @@ Contains topicwise list of solved problems.
 | [0148-sort-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0190-reverse-bits/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -625,6 +627,7 @@ Contains topicwise list of solved problems.
 | [0509-fibonacci-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1406-stone-game-iii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2645-minimum-additions-to-make-valid-string/) | Medium |
 ## Combinatorics
@@ -788,6 +791,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -865,4 +869,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1051-height-checker/) | Easy |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
