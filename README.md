@@ -454,6 +454,7 @@ Contains topicwise list of solved problems.
 | [1041-robot-bounded-in-circle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -552,6 +553,7 @@ Contains topicwise list of solved problems.
 | [0907-sum-of-subarray-minimums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -866,6 +868,7 @@ Contains topicwise list of solved problems.
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bubble Sort
