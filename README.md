@@ -236,6 +236,7 @@ Contains topicwise list of solved problems.
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2540-minimum-common-value](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -471,6 +472,7 @@ Contains topicwise list of solved problems.
 | [2287-rearrange-characters-to-make-target-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2490-circular-sentence](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2490-circular-sentence/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2645-minimum-additions-to-make-valid-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2942-find-words-containing-character/) | Easy |
