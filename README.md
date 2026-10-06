@@ -184,6 +184,7 @@ Contains topicwise list of solved problems.
 | [0540-single-element-in-a-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0561-array-partition/) | Easy |
+| [0565-array-nesting](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0565-array-nesting/) | Medium |
 | [0605-can-place-flowers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -840,6 +841,7 @@ Contains topicwise list of solved problems.
 | [0145-binary-tree-postorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0565-array-nesting](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0565-array-nesting/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
