@@ -357,6 +357,7 @@ Contains topicwise list of solved problems.
 | [0410-split-array-largest-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0561-array-partition](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0605-can-place-flowers/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -452,6 +453,7 @@ Contains topicwise list of solved problems.
 | [0438-find-all-anagrams-in-a-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0520-detect-capital/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1041-robot-bounded-in-circle/) | Medium |
@@ -553,6 +555,7 @@ Contains topicwise list of solved problems.
 | [0445-add-two-numbers-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -634,6 +637,7 @@ Contains topicwise list of solved problems.
 | [0410-split-array-largest-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -876,6 +880,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
