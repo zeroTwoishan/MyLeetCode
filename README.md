@@ -195,6 +195,7 @@ Contains topicwise list of solved problems.
 | [0835-image-overlap](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0877-stone-game/) | Medium |
+| [0881-boats-to-save-people](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -341,6 +342,7 @@ Contains topicwise list of solved problems.
 | [0443-string-compression](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0443-string-compression/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0881-boats-to-save-people](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -359,6 +361,7 @@ Contains topicwise list of solved problems.
 | [0561-array-partition](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0881-boats-to-save-people](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -521,6 +524,7 @@ Contains topicwise list of solved problems.
 | [0414-third-maximum-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0881-boats-to-save-people](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1051-height-checker](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1051-height-checker/) | Easy |
@@ -920,4 +924,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Timsort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
