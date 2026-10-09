@@ -359,6 +359,7 @@ Contains topicwise list of solved problems.
 | [0605-can-place-flowers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -467,6 +468,7 @@ Contains topicwise list of solved problems.
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -566,6 +568,7 @@ Contains topicwise list of solved problems.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -896,6 +899,7 @@ Contains topicwise list of solved problems.
 | [1021-remove-outermost-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
