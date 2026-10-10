@@ -237,6 +237,7 @@ Contains topicwise list of solved problems.
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -297,6 +298,7 @@ Contains topicwise list of solved problems.
 | [1539-kth-missing-positive-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2540-minimum-common-value](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -368,6 +370,7 @@ Contains topicwise list of solved problems.
 | [1833-maximum-ice-cream-bars](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2645-minimum-additions-to-make-valid-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -538,6 +541,7 @@ Contains topicwise list of solved problems.
 | [2089-find-target-indices-after-sorting-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -783,6 +787,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
