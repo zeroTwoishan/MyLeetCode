@@ -244,6 +244,7 @@ Contains topicwise list of solved problems.
 | [2540-minimum-common-value](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -634,6 +635,7 @@ Contains topicwise list of solved problems.
 | [0073-set-matrix-zeroes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0835-image-overlap](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 ## Dynamic Programming
