@@ -157,6 +157,7 @@ Contains topicwise list of solved problems.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0090-subsets-ii/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -311,6 +312,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0190-reverse-bits/) | Easy |
@@ -390,6 +392,7 @@ Contains topicwise list of solved problems.
 | [0049-group-anagrams](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -857,6 +860,7 @@ Contains topicwise list of solved problems.
 | [0102-binary-tree-level-order-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -903,6 +907,7 @@ Contains topicwise list of solved problems.
 | [0102-binary-tree-level-order-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
