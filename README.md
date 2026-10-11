@@ -284,6 +284,7 @@ Contains topicwise list of solved problems.
 | [0162-find-peak-element](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0268-missing-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -608,6 +609,7 @@ Contains topicwise list of solved problems.
 | [0136-single-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0190-reverse-bits/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0231-power-of-two](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0342-power-of-four/) | Easy |
@@ -859,6 +861,7 @@ Contains topicwise list of solved problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -902,6 +905,7 @@ Contains topicwise list of solved problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
