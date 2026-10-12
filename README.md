@@ -252,6 +252,7 @@ Contains topicwise list of solved problems.
 | [2778-sum-of-squares-of-special-elements](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2906-construct-product-matrix](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2942-find-words-containing-character](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -379,6 +380,7 @@ Contains topicwise list of solved problems.
 | [2333-minimum-sum-of-squared-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2645-minimum-additions-to-make-valid-string/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -427,6 +429,7 @@ Contains topicwise list of solved problems.
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3046-split-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3046-split-the-array/) | Easy |
@@ -621,6 +624,7 @@ Contains topicwise list of solved problems.
 | [0389-find-the-difference](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
