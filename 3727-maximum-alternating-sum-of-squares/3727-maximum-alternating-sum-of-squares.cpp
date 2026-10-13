@@ -1,3 +1,4 @@
+/*
 class Solution {
 public:
     static bool rule(int a, int b) { return abs(a) < abs(b); }
@@ -25,6 +26,26 @@ public:
                 score += term;
             else
                 score -= term;
+        }
+        return score;
+    }
+};
+*/
+
+class Solution {
+public:
+    static bool rule(int a, int b){
+        return abs(a) < abs(b);
+    }
+    long long maxAlternatingSum(vector<int>& nums) {
+        int n = nums.size();
+        sort(nums.begin(), nums.end(), rule);
+
+        long long score = 0;
+        for (int i = 0; i < n; i++) {
+            long long term = (long long)nums[i] * nums[i];
+            if (i < n / 2) score -= term;   // smallest n/2 get minus
+            else           score += term;   // rest get plus
         }
         return score;
     }
