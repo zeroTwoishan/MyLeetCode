@@ -473,6 +473,7 @@ Contains topicwise list of solved problems.
 | [0205-isomorphic-strings](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0257-binary-tree-paths](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0299-bulls-and-cows](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -706,6 +707,7 @@ Contains topicwise list of solved problems.
 | [0078-subsets](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0090-subsets-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -886,6 +888,7 @@ Contains topicwise list of solved problems.
 | [0199-binary-tree-right-side-view](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -907,6 +910,7 @@ Contains topicwise list of solved problems.
 | [0145-binary-tree-postorder-traversal](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0565-array-nesting](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0565-array-nesting/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -934,6 +938,7 @@ Contains topicwise list of solved problems.
 | [0199-binary-tree-right-side-view](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
