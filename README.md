@@ -257,6 +257,7 @@ Contains topicwise list of solved problems.
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2906-construct-product-matrix](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2942-find-words-containing-character](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2951-find-the-peaks](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2951-find-the-peaks/) | Easy |
@@ -439,6 +440,7 @@ Contains topicwise list of solved problems.
 | [2784-check-if-array-is-good](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3046-split-the-array](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3046-split-the-array/) | Easy |
@@ -799,6 +801,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -985,4 +988,5 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 <!---LeetCode Topics End-->
