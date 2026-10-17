@@ -897,6 +897,7 @@ Contains topicwise list of solved problems.
 | [0257-binary-tree-paths](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
@@ -947,6 +948,7 @@ Contains topicwise list of solved problems.
 | [0257-binary-tree-paths](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/zeroTwoishan/MyLeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
@@ -992,4 +994,8 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/zeroTwoishan/MyLeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/zeroTwoishan/MyLeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
