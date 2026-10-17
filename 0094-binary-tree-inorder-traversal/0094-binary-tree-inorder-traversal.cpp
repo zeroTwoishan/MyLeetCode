@@ -11,6 +11,36 @@
  */
 class Solution {
 public:
+    vector<int> inorderTraversal(TreeNode* root) {
+        TreeNode* curr = root;
+        vector<int> inorder;
+        while(curr){
+            if(!curr->left){
+                inorder.push_back(curr->val);
+                curr = curr->right;
+            }
+            else{
+                TreeNode* prev = curr->left;
+                while(prev->right && prev->right != curr) prev = prev->right;
+
+                if(!prev->right){
+                    prev->right = curr;
+                    curr = curr->left;
+                } 
+                else{
+                    prev->right = nullptr;
+                    inorder.push_back(curr->val);
+                    curr = curr->right;
+                }
+            }
+        }
+        return inorder;
+    }
+};
+
+/*
+class Solution {
+public:
     void traverse(TreeNode* root,vector<int>& ans){
         if(root == nullptr) return;
 
@@ -24,3 +54,4 @@ public:
         return ans;
     }
 };
+*/
